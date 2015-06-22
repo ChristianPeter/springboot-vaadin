@@ -1,4 +1,6 @@
 demo/DemoApplication.class
-demo/Todo.class
 demo/TodoRepository.class
+demo/TodoDialog.class
 demo/MyVaadinUI.class
+demo/Todo.class
+demo/TodoForm.class
